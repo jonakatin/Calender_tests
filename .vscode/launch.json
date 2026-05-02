@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Debug PlannerInterface",
+      "request": "launch",
+      "mainClass": "edu.sc.bse3211.meetingplanner.PlannerInterface",
+      "projectName": "meetingplanner",
+      "console": "integratedTerminal",
+      "shortenCommandLine": "argfile"
+    }
+  ]
+}
